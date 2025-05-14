@@ -1,5 +1,7 @@
 # Ex.07 Restaurant Website
-## Date:
+## Name: Renick Fabian Rajesh
+## Reg No: 212224230227
+## Date: 14/05/2025
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
